@@ -46,6 +46,23 @@ WHERE A> 15
 
 ### Analysis
 
+### Result findings
+Insight from the analysysis
+1. The company sales has been progressively rising from a particular period of time
+2. It has a setback at another point due to a particular trend that was observed along the line of analysis
+3. Customers segment with high lifetime value can be targeted for marketing efforts
+4. And all other obervations from the analysis
+
+## Recommendations
+Based on the analysis, here are our basic recommendation for subsequent business interlegic analysis
+
+1. Invest in marketing and business promotions during peak sales to maximize revenue
+
+### Limitaions
+
+### References
+
+
 
 
 *italics*
