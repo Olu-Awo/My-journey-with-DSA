@@ -12,11 +12,12 @@ I learnt a lot in excel, SQL and now to building my Portfolio.
 The primary data source used is Data sales.CSV, and this is an open data source that can be freely downloaded from online source such as kaggle, FRED or any other data repositiry site.
 
 ### Tools used.
-- MS Excel for data  cleaning
+- MS Excel for data  cleaning [Download here](https://www.microsoft.com)
     - For Data collection
     - For Data cleaning by:
       1. Data Manipulation
       2. Data Munching
+         
 - SQL server (For Querying and Analysis)
 - Power BI (for creating report)
 - MS Power Point (for Presentation)
